@@ -1,5 +1,5 @@
 # Dx11_LiesOfP
-DirectX11을 활용한 P의 거짓 모작
+DirectX11을 활용한 P의 거짓
 
 Effect 담당
 https://youtu.be/ZtteNXDwh00
